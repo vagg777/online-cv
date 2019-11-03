@@ -89,22 +89,22 @@ education:
         face-to-face educational meetings as well as asynchronous teleconferencing.
         
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Developer/Engineer
+      time: July 2018 - Present
+      company: Distributed Systems & Telematics Lab, University of Patras
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Participation in the European project "Sustainable Tourism Strategies 
+        for the Conservation and Utilization of the Mediterranean Coastal
+        and Marine Natural Heritage (INHERIT)" of the Interreg MED Program. 
+        Period: 20/07/2018 - 28/02/2019 and 01/04/2019 - 31/12/2019. Roles:
 
-          - Bullet point
-          - Bullet point
+          - Development of Communication & Dissemination plan
+          - Gathering relevant material for website / updates / brochures / posters / library interviews & videos / email campaigns
+          - Collection of relevant material for sending newsletters
+          - Gathering relevant material for organizing relevant information meetings
+          - Preparing material for tourism approach final conference / press releases and kits / meetings with media representatives / media appearances / horizontal project events
+          - Participate in the development of a coordination plan including guidelines and forms to be used by all partners to monitor the achievement of results and to ensure the effective implementation of deliverables.
+          - Providing input to the methodology being developed
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -140,11 +140,11 @@ projects:
     assignments:
       - title: CASTWATER
         link: "https://castwater.interreg-med.eu"
-        tagline: "CASTWATER is the first Interreg MED project to support sustainable tourism policies & practices on water 
+        tagline: "Castwater is the first Interreg MED project to support sustainable tourism policies & practices on water 
         efficiency in coastal areas. The transnational challenge is to reduce the impact of tourism activities on 
         environmental heritage."
 
-      - title: GPP4Growth
+      - title: GPP4GROWTH
         link: "https://www.interregeurope.eu/gpp4growth/"
         tagline: "GPP4Growth brings together nine partners from nine countries, to exchange experiences & practices and 
         improve their capacities on implementing resource efficiency policies that promote eco-innovation and green growth 
@@ -154,18 +154,19 @@ projects:
         link: "https://inherit.interreg-med.eu"
         tagline: "Sustainable Tourism Strategies to conserve and valorise the Mediterranean coastal and maritime natural heritage"
 
-      - title: GuideMe
+      - title: GUIDEME
         link: "http://www.guideme-project.upatras.gr"
         tagline: " GuideMe is a platform that provides guidance and security for these people when moving outside their homes."
 
 publications:
-    title: Publications
+    title: Scientific Publications
     intro: 
 
     papers:
       - title: Resource-Efficient Decoupling in Ultra Dense 5G Networks
         authors: C. Bouras, V. Kokkinos and E. Michos
         conference: International Symposium on Networks, Computers and Communications (ISNCC), 2019
+
 
       - title: "Efficient 5G Network Decoupling using dynamic Modulation and Coding Scheme Selection"
         authors: C. Bouras, V. Kokkinos and E. Michos
@@ -176,10 +177,10 @@ skills:
 
     toolset:
     
-      - name: HTML5 & CSS
+      - name: Java
         level: 90%
         
-      - name: Java
+      - name: HTML5 & CSS
         level: 80%
         
       - name: Matlab
@@ -199,6 +200,9 @@ skills:
 
       - name: Javascript/JQuery
         level: 50%
+        
+      - name: PHP
+        level: 50%  
         
       - name: Kibana/Elasticsearch
         level: 50%  
