@@ -141,28 +141,24 @@ projects:
 
     assignments:
       - title: CASTWATER
-        link: "#https://castwater.interreg-med.eu"
+        link: "https://castwater.interreg-med.eu"
         tagline: "CASTWATER is the first Interreg MED project to support sustainable tourism policies & practices on water 
         efficiency in coastal areas. The transnational challenge is to reduce the impact of tourism activities on 
         environmental heritage."
 
       - title: GPP4Growth
-        link: "#"
+        link: "https://www.interregeurope.eu/gpp4growth/"
         tagline: "GPP4Growth brings together nine partners from nine countries, to exchange experiences & practices and 
         improve their capacities on implementing resource efficiency policies that promote eco-innovation and green growth 
         through Green Public Procurement (GPP)."
 
       - title: INHERIT
-        link: "#"
+        link: "https://inherit.interreg-med.eu"
         tagline: "Sustainable Tourism Strategies to conserve and valorise the Mediterranean coastal and maritime natural heritage"
 
       - title: GuideMe
-        link: "#"
+        link: "http://www.guideme-project.upatras.gr"
         tagline: " GuideMe is a platform that provides guidance and security for these people when moving outside their homes."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
