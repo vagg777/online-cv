@@ -57,27 +57,29 @@ career-profile:
       
 education:
     - degree: Master's Degree in Computer Engineering 
-      university: Department of Computer Engineering and Informatics, School of Engineering, University of Patras
+      university: Department of Computer Engineering and Informatics, University of Patras
       time: September 2013 - July 2019
       details: |
-        Describe Postgraduate Student from the 
+        Postgraduate Computer Engineering Student from the 
         Department of Computer Engineering & Informatics, University of Patras.
 
           - Diploma's Degree: 7.41
-          - Bullet point
+          - Integrated Master's Degree
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Online Course 'Introduction to Python'
+      university: Online Course Center of Mathesis, Institute of Technology and Research
+      time: February 2019 - March 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        The online course - duration of 6 weeks - with an estimated work of 60 hours was provided
+        through the OpenEdX/gr platform of Mathesis, in line with all already established
+        techniques and eduational specifications.
+        
+    - degree: Lab Assistant for the 'Databases Laboratory' course
+      university: Department of Computer Engineering and Informatics, University of Patras
+      time: September 2017 - February 2018
+      details: |
+        Survaillance of undergraduate students during the execution of the laboratory exercises,
+        as long as providance of technical and consultant support.
 
 experiences:
     - role: Lead Developer
