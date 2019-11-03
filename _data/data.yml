@@ -199,3 +199,6 @@ skills:
 
       - name: Javascript/JQuery
         level: 50%
+        
+      - name: Kibana/Elasticsearch
+        level: 50%  
