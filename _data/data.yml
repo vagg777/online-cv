@@ -16,42 +16,41 @@ sidebar:
     phone: 6993479509
     website: ru6.cti.gr/ru6/users/evangelos-michos #do not add http://
     linkedin: alandoe
-    github: sharu725
+    github: vagg777
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     languages:
-      - idiom: English
+      - idiom: Greek
         level: Native
+
+      - idiom: English
+        level: Professional
 
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Resource Management in Mobile Telecommunication Systems
         link:
 
-      - item: Snowboarding
+      - item: Design and Optimisation of Wireless Networks
         link:
 
-      - item: Cooking
+      - item: Fifth Generation of Mobile Networks (5G)
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Evangelos Michos was born in 1995 in Athens, Greece.
+      He entered the Department of Information and Communication System Engineering at University of Patras in 2013 and attained his degree in 2019.
+      He has obtained the Michigan Certificate of Proficiency in English and the Diplome D' Etudes en Langue Francaise B2.
+      He joined Research Unit 6 in 2018 and his interests involve web development and next generation mobile telecommunications networks.
 
       Second paragraph if required.
 
