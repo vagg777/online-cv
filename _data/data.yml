@@ -56,7 +56,7 @@ career-profile:
       telecommunications networks.
       
 education:
-    - degree: Master's Degree in Computer Engineering 
+    - degree: Diploa Degree in Computer Engineering 
       university: Department of Computer Engineering and Informatics, University of Patras
       time: September 2013 - July 2019
       details: |
@@ -80,7 +80,14 @@ education:
       details: |
         Survaillance of undergraduate students during the execution of the laboratory exercises,
         as long as providance of technical and consultant support.
-
+        
+    - degree: Educational Programme on Scratch Programming Language
+      university: Hellenic Open University, Patras
+      time: October 2015 - November 2015
+      details: |
+        The programme - duration of 25 hours - was conducted using mixed education, combining
+        face-to-face educational meetings as well as asynchronous teleconferencing.
+        
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -133,21 +140,25 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: CASTWATER
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "CASTWATER is the first Interreg MED project to support sustainable tourism policies & practices on water 
+        efficiency in coastal areas. The transnational challenge is to reduce the impact of tourism activities on 
+        environmental heritage."
 
-      - title: DevStudio
+      - title: GPP4Growth
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "GPP4Growth brings together nine partners from nine countries, to exchange experiences & practices and 
+        improve their capacities on implementing resource efficiency policies that promote eco-innovation and green growth 
+        through Green Public Procurement (GPP)."
 
-      - title: Tempo
+      - title: INHERIT
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Sustainable Tourism Strategies to conserve and valorise the Mediterranean coastal and maritime natural heritage"
 
-      - title: Atom
+      - title: GuideMe
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: " GuideMe is a platform that provides guidance and security for these people when moving outside their homes."
 
       - title: Delta
         link: "#"
