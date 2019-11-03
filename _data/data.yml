@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Vaggelis Michos
-    tagline: Software Engineer
+    tagline: Software Engineer / Scientific Researcher on Digital Telecommunications
     avatar: myprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: emichos@ceid.upatras.gr
     phone: 69934114523
     website: ru6.cti.gr/ru6/users/evangelos-michos #do not add http://
-    linkedin: alandoe
+    linkedin:
     github: vagg777
     gitlab:
     bitbucket: vagg777
@@ -51,15 +51,15 @@ career-profile:
       He entered the Department of Information and Communication System Engineering 
       at University of Patras in 2013 and attained his degree in 2019.
       He has obtained the Michigan Certificate of Proficiency in English and the 
-      Diplome D' Etudes en Langue Francaise B2.
-      He joined Research Unit 6 in 2018 and his interests involve web development 
-      and next generation mobile telecommunications networks.
-      
+      Diplome D' Etudes en Langue Francaise B2. He joined Research Unit 6 in 2018 
+      and his interests involve web development and next generation mobile 
+      telecommunications networks.
       
 education:
-    - degree: MSc in Computer Science
+    - degree: Diploma from the Department of Computer Engineering and Informatics, 
+      School of Engineering, University of Patras
       university: University of London
-      time: 2011 - 2012
+      time: September 2013 - July 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
