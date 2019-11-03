@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Vaggelis Michos
     tagline: Software Engineer / Scientific Researcher on Digital Telecommunications
-    avatar: myprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: bioimage.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: emichos@ceid.upatras.gr
@@ -81,12 +81,11 @@ education:
         Survaillance of undergraduate students during the execution of the laboratory exercises,
         as long as providance of technical and consultant support.
         
-    - degree: Educational Programming on Scratch Language
-      university: Hellenic Open University, Patras
-      time: October 2015 - November 2015
+    - degree: Software Engineering Intern
+      university: Ergologic AEBE, Patras
+      time: July 2014 - August 2014
       details: |
-        The programme - duration of 25 hours - was conducted using mixed education, combining
-        face-to-face educational meetings as well as asynchronous teleconferencing.
+        My role during my internship was application programming using JAVA programming language.
         
 experiences:
     - role: Software Developer/Engineer
