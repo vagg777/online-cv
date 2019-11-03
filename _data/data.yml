@@ -81,11 +81,12 @@ education:
         Survaillance of undergraduate students during the execution of the laboratory exercises,
         as long as providance of technical and consultant support.
         
-    - degree: Software Engineering Intern
-      university: Ergologic AEBE, Patras
-      time: July 2014 - August 2014
+    - degree: Educational Programming on Scratch Language
+      university:  Hellenic Open University, Patras
+      time: October 2015 - November 2015
       details: |
-        My role during my internship was application programming using JAVA programming language.
+        The programme - duration of 25 hours - was conducted using mixed education, combining
+        face-to-face educational meetings as well as asynchronous teleconferencing
         
 experiences:
     - role: Software Developer/Engineer
@@ -124,18 +125,12 @@ experiences:
           - Contribute to the development of tabs in the tool, which provides access to basic metrics and data visualizations
           - Ongoing maintenance, updating and management of the online tool and database
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Engineering Intern
+      time: July 2014 - August 2014
+      company: Ergologic AEBE, Patras
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        My role during my internship was application programming using JAVA programming language.
+        
 
 projects:
     title: Projects
