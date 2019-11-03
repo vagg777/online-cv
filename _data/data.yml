@@ -13,12 +13,12 @@ sidebar:
 
     # Sidebar links
     email: emichos@ceid.upatras.gr
-    phone: 6993479509
+    phone: 69934114523
     website: ru6.cti.gr/ru6/users/evangelos-michos #do not add http://
     linkedin: alandoe
     github: vagg777
     gitlab:
-    bitbucket:
+    bitbucket: vagg777
     twitter: 
     stack-overflow:
     codewars:
@@ -52,8 +52,6 @@ career-profile:
       He has obtained the Michigan Certificate of Proficiency in English and the Diplome D' Etudes en Langue Francaise B2.
       He joined Research Unit 6 in 2018 and his interests involve web development and next generation mobile telecommunications networks.
 
-      Second paragraph if required.
-
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -68,18 +66,13 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Training Program 'CodeWeek@eeyem: Teaching Programming Application using the visual programming enviroment Scratch'
+      university: Hellenic Open University
+      time: October 2015 - November 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        The traning program was conducted using the mixed education method, 
+        combining regual learning meetings and asynchronous teleconferencing.
+        The duration of the program was 25 hours.
 
 experiences:
     - role: Lead Developer
