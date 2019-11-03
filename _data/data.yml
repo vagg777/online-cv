@@ -106,18 +106,24 @@ experiences:
           - Participate in the development of a coordination plan including guidelines and forms to be used by all partners to monitor the achievement of results and to ensure the effective implementation of deliverables.
           - Providing input to the methodology being developed
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Scientific Researcher
+      time: March 2018 - Present
+      company: Distributed Systems & Telematics Lab, University of Patras
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Scientific research on mobile networks and applications that propose innovative techniques 
+        to meet the high performance requirements of Next Generation Networks, as well as research 
+        on the latest developments in wired networks, including design, implementation, simulation 
+        and testing of existing networks technologies.
+        
+        Participate in the development of a web-based tool that enables tourism SMEs to self-assess 
+        and improve their water management and conservation business, 
+        and public authorities to view statistics on their current status sustainability of water management 
+        by tourism SMEs in their area.
 
-          - Bullet point
-          - Bullet point
+          - Participate in the planning of the questionnaire that the tool offers to SME users
+          - Participate in the development of a questionnaire evaluation system, incorporating user performance rating mechanisms, as well as mechanisms that provide recommendations on how to improve performance
+          - Contribute to the development of tabs in the tool, which provides access to basic metrics and data visualizations
+          - Ongoing maintenance, updating and management of the online tool and database
 
     - role: UI Developer
       time: 2012 - 2014
