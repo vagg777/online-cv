@@ -162,10 +162,7 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
 
     papers:
       - title: Resource-Efficient Decoupling in Ultra Dense 5G Network
@@ -177,29 +174,30 @@ publications:
         conference: International Conference on Broad-Band Wireless Computing, Communication and Applications (BWCCA), 2019
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Programming Skills
 
     toolset:
+    
+      - name: HTML5 & CSS
+        level: 90%
+        
       - name: Java
         level: 80%
+        
+      - name: Matlab
+        level: 80% 
+        
+      - name: Scratch
+        level: 80%
+
+      - name: SQL
+        level: 75%  
 
       - name: C
         level: 75%
         
       - name: Python
         level: 65%
-        
-      - name: Matlab
-        level: 80%
 
       - name: Javascript/JQuery
         level: 50%
-
-      - name: HTML5 & CSS
-        level: 90%
-
-      - name: Scratch
-        level: 85%
-
-      - name: SQL
-        level: 75%
