@@ -56,19 +56,14 @@ career-profile:
       telecommunications networks.
       
 education:
-    - degree: Diploma from the Department of Computer Engineering and Informatics, 
-    School of Engineering, University of Patras
-    
-      university: University of London
+    - degree: Master's Degree in Computer Engineering 
+      university: Department of Computer Engineering and Informatics, School of Engineering, University of Patras
       time: September 2013 - July 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe Postgraduate Student from the 
+        Department of Computer Engineering & Informatics, University of Patras.
 
-          - Bullet point
+          - Diploma's Degree: 7.41
           - Bullet point
 
     - degree: BSc in Applied Mathematics
